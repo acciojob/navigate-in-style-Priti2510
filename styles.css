@@ -1,8 +1,8 @@
 /*  your css code here. If applicable */
-body {
-            margin: 0;
-            padding: 0;
-        }
+.container {
+	background-color: rgb(211, 211, 211)");
+	padding: 10px;
+}
 
         nav {
             background-color: #D3D3D3;
@@ -13,6 +13,7 @@ body {
             list-style: none;
             padding: 0;
             margin: 0;
+			display: flex;
         }
 
         li {
